@@ -2,7 +2,7 @@
 
 Esta es una aplicación simple de contador desarrollada con Flutter. La aplicación permite incrementar, decrementar y reiniciar un contador de clicks.
 
-Desarrollado por el estudiante Diego A. Marte Toledo, ID: 10155301 para la materia de Desarrollo de Aplicaciones Moviles impartido por la profesora Natalia D. Polanco Peguero
+Desarrollado por el estudiante Diego A. Marte Toledo, ID: 10155301 para la materia de Desarrollo de Aplicaciones Moviles impartido por la profesora Natalia D. Polanco Peguero.
 
 ## Características
 
@@ -17,9 +17,10 @@ Desarrollado por el estudiante Diego A. Marte Toledo, ID: 10155301 para la mater
 
 Para ejecutar esta aplicación, necesitas tener instalado:
 
-1. [Flutter SDK](https://flutter.dev/docs/get-started/install) (herramienta de desarrollo)
-2. [Xcode](https://apps.apple.com/us/app/xcode/id497799835) (para desarrollo en iOS/macOS)
-3. [Git](https://git-scm.com/downloads) (para clonar el repositorio, control de versiones y constribucion)
+1. [Flutter SDK](https://flutter.dev/docs/get-started/install) (herramienta de desarrllo)
+2. [Android Studio](https://developer.android.com/studio) (IDE recomendado para desarrollo Flutter)
+3. [Xcode](https://apps.apple.com/us/app/xcode/id497799835) (para desarrollo en iOS/macOS)
+4. [Git](https://git-scm.com/downloads) (para clonar el repositorio, control de versiones, contribuciones)
 
 ## Cómo Ejecutar la Aplicación
 
